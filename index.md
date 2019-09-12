@@ -17,7 +17,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ```
 The final element.
 ```
-<title>textBoxes.html</title>
+<!DOCTYPE html>
+<html lang = "en-US">
+ <head>
+ <meta charset = "UTF-8">
+ <title>textBoxes.html</title>
  <script type = "text/javascript">
   // from textBoxes.html
   function sayHi(){
@@ -46,3 +50,4 @@ The final element.
   </fieldset>
  </form>
  </body>
+</html>
